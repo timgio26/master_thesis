@@ -13,17 +13,17 @@ Table of Contents
 4. Substantive and Methodological Issues
 -------
 
-1. Structural Issues
+1. Structural Issues [done]
 1.1. List of Abbreviations
 Given that the thesis contains numerous abbreviations that may hinder readability, it is recommended to include an unnumbered section titled 'List of Abbreviations' immediately before the Introduction, providing a comprehensive list of all acronyms and their full expansions.
 
-1.2. Additional Chapter and Structural Completeness
+1.2. Additional Chapter and Structural Completeness [done]
 The thesis currently lacks a critical discussion regarding the empirical findings in relation to the hypotheses formulated in Section 2.1, as well as their broader implications for practitioners. Furthermore, these results should be contextualized within the existing literature, with specific reference to Bendeck & Stasko (2024) as well as Das et al. (2025). Additionally, the manuscript concludes prematurely; the thesis currently lacks a well-developed conclusion or a future works section, ending abruptly on page 28 immediately after introducing the theoretical prompt modifications.
 
-1.3. Incomplete 'Summary' Section [yes this is on going]
+1.3. Incomplete 'Summary' Section [done]
 On page 26, the heading 'Summary' is present, but it contains no body text. The entire Summary and Conclusions section is completely absent. A comprehensive concluding chapter must satisfy the following academic criteria: (1) restate the core research objectives; (2) synthesize the key empirical findings in direct relation to the hypotheses formulated in Section 2.1; (3) articulate the theoretical contributions and practical implications of the results; (4) explicitly acknowledge the limitations of the study; and (5) propose concrete directions for future research. Without these components, the thesis is structurally incomplete and cannot be considered ready for submission. 
 
-1.4. Elaboration of the Introduction
+1.4. Elaboration of the Introduction [done]
 The Introduction section is currently underdeveloped and requires significant expansion. To achieve the necessary depth, the author should integrate more detailed foundational elements, specifically by formally elaborating on the core research background, explicit problem statements, and the structural roadmap of the study as established during the initial research design phase and summarized in the 'Research Card'.
 
 2. Editorial Issues
@@ -43,7 +43,7 @@ The manuscript contains several linguistic and typographical deficiencies that r
 
 --Consequently, the author must thoroughly revise the manuscript to eliminate all grammatical, spelling, and typographical inconsistencies. 
 
-2.4. Optimization of Large Visual Assets
+2.4. Optimization of Large Visual Assets [done]
 Table 2 is excessively large and severely disrupts the layout. To enhance readability and maintain document flow, the author should either split the table or transfer it partially to a dedicated Appendix.
 
 2.5. Suboptimal Equation Formatting [done]
@@ -53,22 +53,22 @@ Mathematical formulations - specifically those defining accuracy, corrected scor
 While the List of Figures correctly lists entries up to Figure 10, the figure captions within the main text exhibit minor inconsistencies. Specifically, punctuation marks (commas or periods) are missing at the end of several captions. Furthermore, the punctuation following the figure number is omitted on page 23 (e.g., 'Figure 9 Mini-VLAT accuracy' instead of the standard 'Figure 9. Mini-VLAT accuracy'). These formal errors must be systematically resolved.
 
 3. Literature Review Weaknesses
-3.1. Excessive Focus on Historical Foundations
+3.1. Excessive Focus on Historical Foundations [done]
 Sections 1.1 and 1.2 devote disproportionate space to discussing the historical evolution of artificial intelligence, dating back to the 1950s and 1960s. Given the contemporary focus of this thesis on cutting-edge MLLM capabilities, this historical background should be either significantly condensed or omitted entirely to prioritize current research advancements.
 
 3.2. Publication Status and Citation Year Inconsistency
 The citation 'Liu et al. (2026)' is utilized repeatedly throughout the text. Given the current timeframe, if this source is an unindexed preprint, a forthcoming paper, or an ahead-of-print publication, it must be labeled accordingly in both the text and the bibliography using standard academic nomenclature (e.g., 'in press' or 'preprint'). The author must verify the exact publication status and update the metadata.
 
-3.3. Citation Discrepancies and Missing Sources
+3.3. Citation Discrepancies and Missing Sources [done]
 The citation for Radford et al. (2019) on Page 7 is listed in the bibliography with the title 'Language Models are Unsupervised Multitask Learners' (corresponding to the GPT-2 model). However, within the main text, this specific citation is erroneously utilized to support the description of the CLIP architecture. These represent two fundamentally distinct research papers authored by different teams under the same lead author. The author must clarify this reference, rectify the textual citations, and incorporate the correct bibliographic metadata for the CLIP publication.
 
 4. Substantive and Methodological Issues
 
-4.1. Alignment with Business and Management Disciplines
+4.1. Alignment with Business and Management Disciplines [done]
 The current manuscript fails to sufficiently address relevant business and managerial aspects, which is a mandatory institutional requirement for degree theses defended at the Faculty of Management. Therefore, the author must revise the overarching narrative to integrate practical business applications, such as evaluating how visual literacy constraints influence the economic and strategic decision-making processes of both individual consumers and corporate executives.
 
 4.2. Inconsistent Statistical Reporting
 P-values are reported inconsistently: some as inequalities ('p < .001', 'p > .05') and one as a decimal ("p = .015") - which is not in itself incorrect but should be applied consistently throughout
 
-4.3. Omission of Detailed Prompt Metrics [yes this is on going]
+4.3. Omission of Detailed Prompt Metrics [done]
 Section 3.3 introduces the Simplified, Modified, and Extended Chart-of-Thought prompts on page 28, but fails to provide the concrete statistical evidence and comparative metrics required to justify their structural design. The author must present empirical validation to substantiate why these specific prompt modifications were selected and how they affect model performance.
